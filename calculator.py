@@ -1,4 +1,4 @@
-# https://github.com/eperez0823/lab11-CW-EP
+# https://github.com/eperez0823/lab11-EP-CW
 # Partner 1: Christopher Wilches
 # Partner 2: Esteban Perez
 
